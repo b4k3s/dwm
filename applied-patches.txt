@@ -1,0 +1,6 @@
+actualfullscreen	dwm-actualfullscreen-20191112-cb3f58a
+cfacts			dwm-cfacts-20200913-61bb8b2
+hide vacant tags	dwm-hide_vacant_tags-6.2
+swallow			dwm-swallow-20201211-61bb8b2
+vanitygaps		dwm-cfacts-vanitygaps-6.2
+xresources		dwm-xresources-20210314
